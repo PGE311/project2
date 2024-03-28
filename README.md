@@ -1,6 +1,6 @@
 # Homework Project 2
 
-![Project 2](https://github.com/PGE311/project2-solution/workflows/.github/workflows/main.yml/badge.svg)
+![Project 2](https://github.com/PGE311/project2/workflows/.github/workflows/main.yml/badge.svg)
 
 Open the [Project 2 Jupyter Notebook](project2.ipynb) and follow the instructions.
 
